@@ -2,6 +2,7 @@ import pickle
 import streamlit as st
 import pandas as pd 
 from statsmodels.tsa.arima.model import ARIMAResults, ARIMAResultsWrapper
+import plotly
 from plotly import graph_objs as go
 
 
