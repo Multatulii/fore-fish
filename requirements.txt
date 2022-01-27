@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+streamlit
+statsmodels==0.12.2
